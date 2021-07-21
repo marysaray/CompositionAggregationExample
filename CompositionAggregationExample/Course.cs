@@ -20,7 +20,7 @@ namespace CompositionAggregationExample
         /// <summary>
         /// The official course catalog description.
         /// </summary>
-        public string Descrition { get; set; }
+        public string Description { get; set; }
 
         /// <summary>
         /// The number of college credits awarded for 
