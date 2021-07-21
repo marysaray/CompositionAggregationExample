@@ -1,4 +1,4 @@
-# Composition Aggregation Example
+# Composition & Aggregation Example
 
 *Working with Nested Objects:*
 
